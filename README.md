@@ -1,154 +1,150 @@
-<!-- Profile content reviewed against lsimg's public repository READMEs and source files. -->
-<div align="center">
-  <img src="./assets/header.svg" width="100%" alt="GULSIM — AI · Computer Vision · Robotics. Building ideas into reality." />
-  <br /><br />
-  <a href="#about-me">about</a> &nbsp; · &nbsp;
-  <a href="#featured-projects">featured</a> &nbsp; · &nbsp;
-  <a href="#project-constellation">projects</a> &nbsp; · &nbsp;
-  <a href="#tech-stack">toolbox</a> &nbsp; · &nbsp;
-  <a href="#github-signals">activity</a>
-  <br /><br />
-  <samp>curiosity → experiments → things you can interact with</samp>
-</div>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30" alt="Animated sunglasses blob" /> Hey! I’m Gulsim.</h1>
 
-<br />
+<p>
+  Welcome to my page!<br />
+  I’m a <b>student developer</b> working with <b>AI</b>, <b>computer vision</b>, and <b>interactive systems</b>.<br />
+  I build gesture-controlled applications, educational 3D tools, machine learning experiments, and web prototypes.
+</p>
+<p>My projects explore how technology can help people <b>learn</b>, <b>interact</b>, and <b>solve practical problems</b>.</p>
 
-<a id="about-me"></a>
-<img src="./assets/about.svg" width="100%" alt="About me" />
-
-I’m **Gulsim**, a student developer working with **AI**, **computer vision**, and **interactive systems**.
-
-I build gesture-controlled applications, educational 3D tools, machine learning experiments, and web prototypes. My projects explore how technology can help people **learn**, **interact**, and **solve practical problems**.
-
-<br />
-
-<a id="featured-projects"></a>
-<img src="./assets/project.svg" width="100%" alt="Featured projects" />
-
-<a href="https://github.com/lsimg/Lumen">
-  <img src="./assets/lumen.svg" width="100%" alt="Lumen — gesture-controlled educational 3D platform with Jeremy, an optional contextual voice assistant" />
-</a>
-
-**[Lumen](https://github.com/lsimg/Lumen)** brings four learning paths into one interactive 3D application: **robotics**, **computer components**, **human anatomy**, and **interactive learning for children**.
-
-- **Explore with your hands:** point at parts, pinch to select, move with an open palm, rotate with a V gesture, and scale with two hands.
-- **Learn by interacting:** inspect component descriptions, manipulate robot joints, and play fruit-matching and size-matching activities.
-- **Ask Jeremy:** an optional voice assistant uses the current model, selected part, and application state as context. Wake-word detection, speech recognition, and speech synthesis run locally; generated answers use OpenRouter.
-
-<samp>Python · OpenCV · MediaPipe · ModernGL · Trimesh · Vosk · PyTorch/Silero</samp>
-
-<br /><br />
-
-<p align="center">
-  <a href="https://github.com/lsimg/Astroguard.v2"><img src="./assets/astroguard.svg" width="49%" alt="AstroGuard v2 — adaptive autoencoders, telemetry anomaly detection, FFT analysis and remaining-life estimation" /></a>
-  <a href="https://github.com/lsimg/TDKwarriors"><img src="./assets/tdkwarriors.svg" width="49%" alt="TDKwarriors — autonomous robot vehicle software for WRO Future Engineers 2026" /></a>
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&amp;logo=scipy&amp;logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&amp;logo=opencv&amp;logoColor=white" />
+  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&amp;logo=mediapipe&amp;logoColor=white" />
+  <img alt="ModernGL" src="https://img.shields.io/badge/ModernGL-5586A4?style=flat-square&amp;logo=opengl&amp;logoColor=white" />
+  <img alt="Trimesh" src="https://img.shields.io/badge/Trimesh-764ABC?style=flat-square" />
+  <img alt="Vosk" src="https://img.shields.io/badge/Vosk-3E8E7E?style=flat-square" />
+  <img alt="Pybricks" src="https://img.shields.io/badge/Pybricks-E9A820?style=flat-square" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D6AD08?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" />
+  <img alt="Groq API" src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square" />
 </p>
 
-**[AstroGuard v2](https://github.com/lsimg/Astroguard.v2)** — a telemetry research application with a PyTorch autoencoder, automated architecture search, FFT analysis, and remaining useful life estimation. Its loader supports NASA IMS, SMAP/MSL, CSV, and NumPy data, with a Streamlit monitoring interface.
+<h3>My projects</h3>
+<table>
+  <thead>
+    <tr>
+      <th align="left">Projects &amp; ideas</th>
+      <th>Stars</th>
+      <th>Forks</th>
+      <th>Issues</th>
+      <th>Pull requests</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/lsimg/Lumen"><b>Lumen</b></a><br /><sub>Gesture-controlled 3D learning, interactive models, and an optional contextual voice assistant.</sub></td>
+      <td align="center"><img alt="Lumen stars" src="https://img.shields.io/github/stars/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Lumen forks" src="https://img.shields.io/github/forks/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Lumen issues" src="https://img.shields.io/github/issues/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Lumen pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/Astroguard.v2"><b>AstroGuard v2</b></a><br /><sub>Telemetry anomaly detection with PyTorch autoencoders, architecture search, and FFT analysis.</sub></td>
+      <td align="center"><img alt="AstroGuard v2 stars" src="https://img.shields.io/github/stars/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard v2 forks" src="https://img.shields.io/github/forks/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard v2 issues" src="https://img.shields.io/github/issues/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard v2 pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/TDKwarriors"><b>TDKwarriors</b></a><br /><sub>Autonomous robotics software: navigation, odometry, sensor integration, and steering control.</sub></td>
+      <td align="center"><img alt="TDKwarriors stars" src="https://img.shields.io/github/stars/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="TDKwarriors forks" src="https://img.shields.io/github/forks/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="TDKwarriors issues" src="https://img.shields.io/github/issues/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="TDKwarriors pull requests" src="https://img.shields.io/github/issues-pr/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/AyaraiBI"><b>AyaraiBI</b></a><br /><sub>Agricultural risk assessment using weather and climate data, with optional AI explanations.</sub></td>
+      <td align="center"><img alt="AyaraiBI stars" src="https://img.shields.io/github/stars/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AyaraiBI forks" src="https://img.shields.io/github/forks/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AyaraiBI issues" src="https://img.shields.io/github/issues/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AyaraiBI pull requests" src="https://img.shields.io/github/issues-pr/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/Bala-Qolda"><b>BalaQoldau</b></a><br /><sub>A bilingual family-support prototype with development plans, communication cards, and AI-assisted workflows.</sub></td>
+      <td align="center"><img alt="BalaQoldau stars" src="https://img.shields.io/github/stars/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="BalaQoldau forks" src="https://img.shields.io/github/forks/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="BalaQoldau issues" src="https://img.shields.io/github/issues/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="BalaQoldau pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/SANA-TYNYS"><b>SanaTynys</b></a><br /><sub>A nicotine-habit tracking prototype with a journal, progress dashboard, exercises, and an AI coach.</sub></td>
+      <td align="center"><img alt="SanaTynys stars" src="https://img.shields.io/github/stars/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="SanaTynys forks" src="https://img.shields.io/github/forks/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="SanaTynys issues" src="https://img.shields.io/github/issues/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="SanaTynys pull requests" src="https://img.shields.io/github/issues-pr/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/Mediapipe_Draw"><b>Air Drawing</b></a><br /><sub>Draw, select colors, and erase through hand gestures; save the result as a PNG.</sub></td>
+      <td align="center"><img alt="Air Drawing stars" src="https://img.shields.io/github/stars/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Air Drawing forks" src="https://img.shields.io/github/forks/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Air Drawing issues" src="https://img.shields.io/github/issues/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Air Drawing pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/Mouse_Move"><b>Virtual Hand Mouse</b></a><br /><sub>Control a Windows cursor, clicks, and scrolling with webcam-tracked hand gestures.</sub></td>
+      <td align="center"><img alt="Virtual Hand Mouse stars" src="https://img.shields.io/github/stars/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Virtual Hand Mouse forks" src="https://img.shields.io/github/forks/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Virtual Hand Mouse issues" src="https://img.shields.io/github/issues/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Virtual Hand Mouse pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/two-hand-image-zoom"><b>Two-Hand Image Zoom</b></a><br /><sub>Smoothly resize an image using the distance between two raised index fingers.</sub></td>
+      <td align="center"><img alt="Two-Hand Image Zoom stars" src="https://img.shields.io/github/stars/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Two-Hand Image Zoom forks" src="https://img.shields.io/github/forks/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Two-Hand Image Zoom issues" src="https://img.shields.io/github/issues/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="Two-Hand Image Zoom pull requests" src="https://img.shields.io/github/issues-pr/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/AstroGuard"><b>AstroGuard</b></a><br /><sub>The earlier vibration-monitoring prototype with MLP-based anomaly scoring and a Streamlit dashboard.</sub></td>
+      <td align="center"><img alt="AstroGuard stars" src="https://img.shields.io/github/stars/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard forks" src="https://img.shields.io/github/forks/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard issues" src="https://img.shields.io/github/issues/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
+      <td align="center"><img alt="AstroGuard pull requests" src="https://img.shields.io/github/issues-pr/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
+    </tr>
+  </tbody>
+</table>
 
-**[TDKwarriors](https://github.com/lsimg/TDKwarriors)** — a team robotics project for WRO Future Engineers 2026. The software covers Pybricks control, sensor-based navigation, odometry, and steering. The repository also documents the OpenMV–Arduino–Technic Hub architecture and the vehicle's mechanical evolution.
+<h3>Explore the projects</h3>
+<ul>
+  <li>
+    <a href="https://github.com/lsimg/Lumen#controls"><b>From hand gestures to interactive 3D learning</b></a><br />
+    <i>Explore model interaction, educational activities, and the Jeremy voice assistant in Lumen.</i>
+  </li>
+  <li>
+    <a href="https://github.com/lsimg/Astroguard.v2#how-it-works"><b>Finding anomalies in telemetry</b></a><br />
+    <i>Follow AstroGuard’s data-loading, autoencoder, architecture-search, and signal-analysis pipeline.</i>
+  </li>
+  <li>
+    <a href="https://github.com/lsimg/TDKwarriors/blob/main/Software.README.md"><b>Making an autonomous robot move</b></a><br />
+    <i>Read about navigation, localization, motor control, and the software architecture.</i>
+  </li>
+</ul>
 
-<br />
-
-<a id="project-constellation"></a>
-<img src="./assets/projects.svg" width="100%" alt="Project constellation" />
-
-<p align="center"><samp>more experiments from my public repositories</samp></p>
-
-### Vision & gesture interfaces
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[Mediapipe_Draw](https://github.com/lsimg/Mediapipe_Draw)** | An air-drawing app: draw with an index finger, choose colors with two fingers, erase with a fist, and save drawings as PNG. Includes asynchronous tracking and adaptive smoothing. | Python · OpenCV · MediaPipe · NumPy |
-| **[Mouse_Move](https://github.com/lsimg/Mouse_Move)** | A webcam-controlled virtual mouse for Windows. Hand gestures move the pointer, click, double-click, scroll, and pause control, with cursor smoothing and gesture debouncing. | Python · MediaPipe · OpenCV · PyAutoGUI |
-| **[two-hand-image-zoom](https://github.com/lsimg/two-hand-image-zoom)** | Resize an image by moving two raised index fingers apart or together. Includes smooth scaling, scale limits, and transparent PNG support. | Python · OpenCV · MediaPipe |
-
-### Data & applied AI
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[AstroGuard](https://github.com/lsimg/AstroGuard)** | The earlier vibration-monitoring prototype: MLP-based anomaly scoring, FFT plots, health trends, and a Streamlit dashboard. Includes a Dockerfile. | Python · scikit-learn · SciPy · Streamlit · Docker |
-| **[AyaraiBI](https://github.com/lsimg/AyaraiBI)** | An agricultural risk assistant for Kazakhstan. Combines Open-Meteo forecasts and NASA POWER climate data with rule-based risk scoring and optional AI explanations for field decisions. | Python · FastAPI · Pydantic · HTTPX · Groq/Gemini APIs |
-
-### Web prototypes for people
-
-| Project | What it does | Built with |
-| :--- | :--- | :--- |
-| **[BalaQoldau](https://github.com/lsimg/Bala-Qolda)** | A bilingual family-and-specialist support prototype: specialist discovery, child profiles, development plans, home activities, and Russian/Kazakh AAC communication cards. Includes a Groq-powered AI module with plan review and approval states. | HTML · CSS · JavaScript · Groq API · SQL/D1 |
-| **[SanaTynys](https://github.com/lsimg/SANA-TYNYS)** | A browser-based prototype for tracking nicotine habits: onboarding, a progress dashboard, a journal, a calendar, short exercises, and Sana Coach. Data is stored locally; the two interface variants connect to Groq or Gemini. | HTML · CSS · JavaScript · localStorage · AI APIs |
-
-<br />
-
-<a id="current-focus"></a>
-<img src="./assets/focus.svg" width="100%" alt="Current focus" />
-
-| Focus | Where I'm exploring it |
-| :--- | :--- |
-| **Computer Vision & HCI** | Hand tracking, gesture recognition, and responsive webcam interfaces. |
-| **Interactive education** | Exploring 3D models, robotics, anatomy, and learning through play. |
-| **Machine Learning & signals** | Telemetry anomaly detection, autoencoders, and spectral analysis. |
-| **Autonomous robotics** | Sensor-based navigation, localization, and motor control. |
-| **Useful AI interfaces** | Agricultural decision support, contextual voice assistance, and human-reviewed AI workflows. |
-
-<br />
-
-<a id="tech-stack"></a>
-<img src="./assets/stack.svg" width="100%" alt="My toolbox" />
-
-<p align="center"><samp>tools used across my repositories</samp></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-19182b?style=for-the-badge&amp;logo=python&amp;logoColor=b9a6ff" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-19182b?style=for-the-badge&amp;logo=pytorch&amp;logoColor=8ef0d0" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-19182b?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=b9a6ff" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/NumPy-19182b?style=for-the-badge&amp;logo=numpy&amp;logoColor=8ef0d0" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-19182b?style=for-the-badge&amp;logo=scipy&amp;logoColor=b9a6ff" alt="SciPy" />
-  <br />
-  <img src="https://img.shields.io/badge/OpenCV-19182b?style=for-the-badge&amp;logo=opencv&amp;logoColor=b9a6ff" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/MediaPipe-19182b?style=for-the-badge&amp;logo=mediapipe&amp;logoColor=8ef0d0" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/ModernGL-19182b?style=for-the-badge&amp;logo=opengl&amp;logoColor=b9a6ff" alt="ModernGL" />
-  <img src="https://img.shields.io/badge/Vosk-19182b?style=for-the-badge&amp;logo=&amp;logoColor=8ef0d0" alt="Vosk" />
-  <img src="https://img.shields.io/badge/Pybricks-19182b?style=for-the-badge&amp;logo=&amp;logoColor=b9a6ff" alt="Pybricks" />
-  <br />
-  <img src="https://img.shields.io/badge/FastAPI-19182b?style=for-the-badge&amp;logo=fastapi&amp;logoColor=b9a6ff" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Streamlit-19182b?style=for-the-badge&amp;logo=streamlit&amp;logoColor=8ef0d0" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/JavaScript-19182b?style=for-the-badge&amp;logo=javascript&amp;logoColor=b9a6ff" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-19182b?style=for-the-badge&amp;logo=html5&amp;logoColor=8ef0d0" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS-19182b?style=for-the-badge&amp;logo=css&amp;logoColor=b9a6ff" alt="CSS" />
-  <br />
-  <img src="https://img.shields.io/badge/Git-19182b?style=for-the-badge&amp;logo=git&amp;logoColor=b9a6ff" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-19182b?style=for-the-badge&amp;logo=docker&amp;logoColor=8ef0d0" alt="Docker" />
-  <img src="https://img.shields.io/badge/Groq%20API-19182b?style=for-the-badge&amp;logo=&amp;logoColor=b9a6ff" alt="Groq API" />
-  <img src="https://img.shields.io/badge/OpenRouter-19182b?style=for-the-badge&amp;logo=&amp;logoColor=8ef0d0" alt="OpenRouter" />
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/lsimg"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
-<br />
+<h3>A little progress, every day</h3>
+<p><img src="./assets/github-snake.svg" width="100%" alt="Animated contribution snake for lsimg" /></p>
 
-<a id="github-signals"></a>
-<img src="./assets/stats.svg" width="100%" alt="GitHub signals" />
-
+<hr />
 <p align="center">
-  <a href="https://github.com/lsimg?tab=repositories">
-    <img width="49%" src="./assets/github-stats.svg" alt="Gulsim's public GitHub statistics" />
-  </a>
-  <a href="https://github.com/lsimg?tab=repositories">
-    <img width="49%" src="./assets/top-languages.svg" alt="Languages in Gulsim's public repositories" />
-  </a>
+  <i>Learning by building.</i><br />
+  The contribution animation refreshes daily.
 </p>
-
-<div align="center">
-  <img src="./assets/robot.svg" width="180" alt="A little floating robot with mint eyes and lavender sparkles" />
-  <br />
-  <samp>a little bot, a lot of curiosity.</samp>
-</div>
-
-<br /><br />
-
-<img src="./assets/activity.svg" width="100%" alt="A little progress, every day" />
-
-<!-- GitHub Actions refreshes these visuals daily using public GitHub data. -->
 <p align="center">
-  <img src="./assets/github-snake.svg" width="100%" alt="Animated contribution snake for lsimg" />
+  <a href="https://github.com/lsimg/lsimg/actions/workflows/snake.yml"><img alt="Profile visuals workflow status" src="https://github.com/lsimg/lsimg/actions/workflows/snake.yml/badge.svg" /></a>
 </p>
-
-<img src="./assets/footer.svg" width="100%" alt="Stay curious. Build something that matters." />
