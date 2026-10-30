@@ -35,83 +35,50 @@
 <table>
   <thead>
     <tr>
-      <th align="left">Projects &amp; ideas</th>
-      <th>Stars</th>
-      <th>Forks</th>
-      <th>Issues</th>
-      <th>Pull requests</th>
+      <th align="left">Project</th>
+      <th align="left">What it does</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/lsimg/Lumen"><b>Lumen</b></a><br /><sub>Gesture-controlled 3D learning, interactive models, and an optional contextual voice assistant.</sub></td>
-      <td align="center"><img alt="Lumen stars" src="https://img.shields.io/github/stars/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Lumen forks" src="https://img.shields.io/github/forks/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Lumen issues" src="https://img.shields.io/github/issues/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Lumen pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Lumen?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/Lumen"><b>Lumen</b></a></td>
+      <td>Gesture-controlled 3D learning, interactive models, and an optional contextual voice assistant.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/Astroguard.v2"><b>AstroGuard v2</b></a><br /><sub>Telemetry anomaly detection with PyTorch autoencoders, architecture search, and FFT analysis.</sub></td>
-      <td align="center"><img alt="AstroGuard v2 stars" src="https://img.shields.io/github/stars/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard v2 forks" src="https://img.shields.io/github/forks/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard v2 issues" src="https://img.shields.io/github/issues/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard v2 pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Astroguard.v2?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/Astroguard.v2"><b>AstroGuard v2</b></a></td>
+      <td>Telemetry anomaly detection with PyTorch autoencoders, architecture search, and FFT analysis.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/TDKwarriors"><b>TDKwarriors</b></a><br /><sub>Autonomous robotics software: navigation, odometry, sensor integration, and steering control.</sub></td>
-      <td align="center"><img alt="TDKwarriors stars" src="https://img.shields.io/github/stars/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="TDKwarriors forks" src="https://img.shields.io/github/forks/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="TDKwarriors issues" src="https://img.shields.io/github/issues/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="TDKwarriors pull requests" src="https://img.shields.io/github/issues-pr/lsimg/TDKwarriors?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/TDKwarriors"><b>TDKwarriors</b></a></td>
+      <td>Autonomous robotics software: navigation, odometry, sensor integration, and steering control.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/AyaraiBI"><b>AyaraiBI</b></a><br /><sub>Agricultural risk assessment using weather and climate data, with optional AI explanations.</sub></td>
-      <td align="center"><img alt="AyaraiBI stars" src="https://img.shields.io/github/stars/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AyaraiBI forks" src="https://img.shields.io/github/forks/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AyaraiBI issues" src="https://img.shields.io/github/issues/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AyaraiBI pull requests" src="https://img.shields.io/github/issues-pr/lsimg/AyaraiBI?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/AyaraiBI"><b>AyaraiBI</b></a></td>
+      <td>Agricultural risk assessment using weather and climate data, with optional AI explanations.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/Bala-Qolda"><b>BalaQoldau</b></a><br /><sub>A bilingual family-support prototype with development plans, communication cards, and AI-assisted workflows.</sub></td>
-      <td align="center"><img alt="BalaQoldau stars" src="https://img.shields.io/github/stars/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="BalaQoldau forks" src="https://img.shields.io/github/forks/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="BalaQoldau issues" src="https://img.shields.io/github/issues/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="BalaQoldau pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Bala-Qolda?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/Bala-Qolda"><b>BalaQoldau</b></a></td>
+      <td>A bilingual family-support prototype with development plans, communication cards, and AI-assisted workflows.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/SANA-TYNYS"><b>SanaTynys</b></a><br /><sub>A nicotine-habit tracking prototype with a journal, progress dashboard, exercises, and an AI coach.</sub></td>
-      <td align="center"><img alt="SanaTynys stars" src="https://img.shields.io/github/stars/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="SanaTynys forks" src="https://img.shields.io/github/forks/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="SanaTynys issues" src="https://img.shields.io/github/issues/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="SanaTynys pull requests" src="https://img.shields.io/github/issues-pr/lsimg/SANA-TYNYS?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/SANA-TYNYS"><b>SanaTynys</b></a></td>
+      <td>A nicotine-habit tracking prototype with a journal, progress dashboard, exercises, and an AI coach.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/Mediapipe_Draw"><b>Air Drawing</b></a><br /><sub>Draw, select colors, and erase through hand gestures; save the result as a PNG.</sub></td>
-      <td align="center"><img alt="Air Drawing stars" src="https://img.shields.io/github/stars/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Air Drawing forks" src="https://img.shields.io/github/forks/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Air Drawing issues" src="https://img.shields.io/github/issues/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Air Drawing pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Mediapipe_Draw?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/Mediapipe_Draw"><b>Air Drawing</b></a></td>
+      <td>Draw, select colors, and erase through hand gestures; save the result as a PNG.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/Mouse_Move"><b>Virtual Hand Mouse</b></a><br /><sub>Control a Windows cursor, clicks, and scrolling with webcam-tracked hand gestures.</sub></td>
-      <td align="center"><img alt="Virtual Hand Mouse stars" src="https://img.shields.io/github/stars/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Virtual Hand Mouse forks" src="https://img.shields.io/github/forks/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Virtual Hand Mouse issues" src="https://img.shields.io/github/issues/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Virtual Hand Mouse pull requests" src="https://img.shields.io/github/issues-pr/lsimg/Mouse_Move?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/Mouse_Move"><b>Virtual Hand Mouse</b></a></td>
+      <td>Control a Windows cursor, clicks, and scrolling with webcam-tracked hand gestures.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/two-hand-image-zoom"><b>Two-Hand Image Zoom</b></a><br /><sub>Smoothly resize an image using the distance between two raised index fingers.</sub></td>
-      <td align="center"><img alt="Two-Hand Image Zoom stars" src="https://img.shields.io/github/stars/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Two-Hand Image Zoom forks" src="https://img.shields.io/github/forks/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Two-Hand Image Zoom issues" src="https://img.shields.io/github/issues/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="Two-Hand Image Zoom pull requests" src="https://img.shields.io/github/issues-pr/lsimg/two-hand-image-zoom?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/two-hand-image-zoom"><b>Two-Hand Image Zoom</b></a></td>
+      <td>Smoothly resize an image using the distance between two raised index fingers.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/AstroGuard"><b>AstroGuard</b></a><br /><sub>The earlier vibration-monitoring prototype with MLP-based anomaly scoring and a Streamlit dashboard.</sub></td>
-      <td align="center"><img alt="AstroGuard stars" src="https://img.shields.io/github/stars/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard forks" src="https://img.shields.io/github/forks/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard issues" src="https://img.shields.io/github/issues/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
-      <td align="center"><img alt="AstroGuard pull requests" src="https://img.shields.io/github/issues-pr/lsimg/AstroGuard?style=flat-square&amp;labelColor=343b41" /></td>
+      <td><a href="https://github.com/lsimg/AstroGuard"><b>AstroGuard</b></a></td>
+      <td>The earlier vibration-monitoring prototype with MLP-based anomaly scoring and a Streamlit dashboard.</td>
     </tr>
   </tbody>
 </table>
