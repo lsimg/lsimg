@@ -16,16 +16,9 @@
 <a id="about-me"></a>
 <img src="./assets/about.svg" width="100%" alt="About me" />
 
-I'm **Gulsim**, a student developer at **NIS Taldykorgan**. I build gesture-controlled interfaces, educational 3D tools, machine learning experiments, and web prototypes.
+I’m **Gulsim**, a student developer working with **AI**, **computer vision**, and **interactive systems**.
 
-My projects explore how machines **see**, how software **responds to people**, and how data can support practical decisions — from satellite telemetry to agriculture in Kazakhstan.
-
-
-<p>
-  <a href="https://github.com/lsimg/Lumen"><img src="https://img.shields.io/badge/currently_building-LUMEN-b9a6ff?style=flat-square&amp;labelColor=1b1930" alt="Currently building Lumen" /></a>
-  &nbsp;
-  <a href="https://github.com/lsimg/TDKwarriors"><img src="https://img.shields.io/badge/robotics-TDKwarriors-8ef0d0?style=flat-square&amp;labelColor=1b1930" alt="Robotics: Team TDKwarriors" /></a>
-</p>
+I build gesture-controlled applications, educational 3D tools, machine learning experiments, and web prototypes. My projects explore how technology can help people **learn**, **interact**, and **solve practical problems**.
 
 <br />
 
@@ -53,7 +46,7 @@ My projects explore how machines **see**, how software **responds to people**, a
 
 **[AstroGuard v2](https://github.com/lsimg/Astroguard.v2)** — a telemetry research application with a PyTorch autoencoder, automated architecture search, FFT analysis, and remaining useful life estimation. Its loader supports NASA IMS, SMAP/MSL, CSV, and NumPy data, with a Streamlit monitoring interface.
 
-**[TDKwarriors](https://github.com/lsimg/TDKwarriors)** — a team robotics project for WRO Future Engineers 2026. My role focuses on software: Pybricks control, sensor-based navigation, odometry, and steering. The repository also documents the OpenMV–Arduino–Technic Hub architecture and the vehicle's mechanical evolution.
+**[TDKwarriors](https://github.com/lsimg/TDKwarriors)** — a team robotics project for WRO Future Engineers 2026. The software covers Pybricks control, sensor-based navigation, odometry, and steering. The repository also documents the OpenMV–Arduino–Technic Hub architecture and the vehicle's mechanical evolution.
 
 <br />
 
@@ -91,10 +84,10 @@ My projects explore how machines **see**, how software **responds to people**, a
 
 | Focus | Where I'm exploring it |
 | :--- | :--- |
-| **Computer Vision & HCI** | Hand tracking, gesture recognition, and interaction in Lumen and my webcam experiments. |
-| **Interactive education** | Exploring 3D models, robotics, anatomy, and learning through play in Lumen. |
-| **Machine Learning & signals** | Telemetry anomaly detection, autoencoders, and spectral analysis in AstroGuard. |
-| **Autonomous robotics** | Navigation, localization, and motor control with Team TDKwarriors. |
+| **Computer Vision & HCI** | Hand tracking, gesture recognition, and responsive webcam interfaces. |
+| **Interactive education** | Exploring 3D models, robotics, anatomy, and learning through play. |
+| **Machine Learning & signals** | Telemetry anomaly detection, autoencoders, and spectral analysis. |
+| **Autonomous robotics** | Sensor-based navigation, localization, and motor control. |
 | **Useful AI interfaces** | Agricultural decision support, contextual voice assistance, and human-reviewed AI workflows. |
 
 <br />
