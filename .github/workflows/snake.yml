@@ -1,4 +1,4 @@
-name: Update contribution snake
+name: Update profile visuals
 
 on:
   schedule:
@@ -8,12 +8,13 @@ on:
     branches: [main, master]
     paths:
       - .github/workflows/snake.yml
+      - .github/scripts/update_stats.py
 
 permissions:
   contents: write
 
 concurrency:
-  group: contribution-snake
+  group: profile-visuals
   cancel-in-progress: false
 
 jobs:
@@ -35,15 +36,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Save the updated animation
+      - name: Generate statistics cards from public GitHub data
+        run: python3 .github/scripts/update_stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Save the updated profile visuals
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-snake.svg
+          git add assets/github-snake.svg assets/github-stats.svg assets/top-languages.svg
           if git diff --staged --quiet; then
-            echo "The contribution animation is already up to date."
+            echo "The profile visuals are already up to date."
             exit 0
           fi
-          git commit -m "Update contribution snake"
+          git commit -m "Update profile visuals"
           git pull --rebase
           git push
