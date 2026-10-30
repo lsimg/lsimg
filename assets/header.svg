@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="GULSIM — AI, Computer Vision, Robotics. Building ideas into reality.">
+<title>GULSIM — AI, Computer Vision, Robotics. Building ideas into reality.</title>
+
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#121426"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#b9a6ff"/><stop offset="1" stop-color="#8ef0d0"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#8b6ee8" stop-opacity=".22"/><stop offset="1" stop-color="#8b6ee8" stop-opacity="0"/></radialGradient>
+ <clipPath id="typing"><rect x="0" y="0" width="315" height="32"><animate attributeName="width" values="0;315;315;0;0" keyTimes="0;.4;.8;.94;1" dur="8s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="898" height="318" rx="22" fill="url(#bg)" stroke="#2a2d48"/>
+<ellipse cx="450" cy="160" rx="350" ry="155" fill="url(#glow)"/>
+<path d="M25 54V25H54M846 25H875V54M25 266V295H54M846 295H875V266" fill="none" stroke="#6a638e" opacity=".6"/>
+<circle cx="60" cy="90" r="2" fill="#a99bff" opacity="0.7"/><circle cx="825" cy="66" r="2" fill="#8ef0d0" opacity="0.8"/><circle cx="744" cy="240" r="1.5" fill="#a99bff" opacity="0.8"/><circle cx="122" cy="250" r="1.5" fill="#8ef0d0" opacity="0.7"/><circle cx="775" cy="112" r="1" fill="#fff" opacity="0.6"/><circle cx="685" cy="51" r="1" fill="#fff" opacity="0.5"/><circle cx="194" cy="59" r="1" fill="#fff" opacity="0.5"/><circle cx="337" cy="273" r="1" fill="#fff" opacity="0.6"/><circle cx="68" cy="206" r="1" fill="#fff" opacity="0.4"/><circle cx="853" cy="214" r="1" fill="#fff" opacity="0.5"/>
+<g fill="none" stroke="#8ef0d0" opacity=".17" transform="translate(450 150) rotate(-12)"><ellipse rx="304" ry="105"/><ellipse rx="335" ry="122" stroke-dasharray="2 10"/></g>
+<text x="450" y="58" text-anchor="middle" font-family="Consolas,monospace" font-size="11" letter-spacing="4" fill="#a99bbd">WELCOME TO MY LITTLE UNIVERSE</text>
+<text x="450" y="153" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="76" font-weight="700" letter-spacing="15" fill="url(#accent)">GULSIM</text>
+<text x="450" y="193" text-anchor="middle" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="2" fill="#d8d4eb">AI · COMPUTER VISION · ROBOTICS</text>
+<g transform="translate(326 225)" font-family="Consolas,monospace" font-size="14" fill="#8ef0d0"><g clip-path="url(#typing)"><text x="0" y="21">&gt; building ideas into reality.</text></g></g>
+<circle cx="403" cy="281" r="3" fill="#8ef0d0"/><text x="416" y="285" font-family="Consolas,monospace" font-size="10" letter-spacing="2" fill="#a99bbd">ALWAYS LEARNING</text>
+
+</svg>

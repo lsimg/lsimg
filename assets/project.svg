@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="62" viewBox="0 0 900 62" role="img" aria-label="Featured projects">
+<title>Featured projects</title>
+<rect width="900" height="62" rx="12" fill="#111321"/>
+<g transform="translate(16 15)" fill="none" stroke="#b9a6ff" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="m16 3 3.5 9.5L29 16l-9.5 3.5L16 29l-3.5-9.5L3 16l9.5-3.5Z"/></g>
+<text x="64" y="39" font-family="Segoe UI,Arial,sans-serif" font-size="21" font-weight="600" fill="#e8e3ff">Featured projects</text>
+<text x="865" y="37" text-anchor="end" font-family="Consolas,monospace" font-size="12" fill="#827b9d">02</text>
+</svg>

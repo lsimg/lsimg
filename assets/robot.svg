@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="180" viewBox="0 0 220 180" role="img" aria-label="A little floating robot with mint eyes and lavender sparkles">
+<title>A little floating robot with mint eyes and lavender sparkles</title>
+
+<ellipse cx="110" cy="157" rx="44" ry="7" fill="#b9a6ff" opacity=".1"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -8;0 0" dur="3s" repeatCount="indefinite"/>
+ <path d="M110 43V29" stroke="#b9a6ff" stroke-width="3"/><circle cx="110" cy="24" r="6" fill="#8ef0d0"/>
+ <rect x="62" y="47" width="96" height="70" rx="24" fill="#24213c" stroke="#b9a6ff" stroke-width="2"/>
+ <rect x="73" y="59" width="74" height="42" rx="16" fill="#101622"/>
+ <g fill="#8ef0d0"><rect x="87" y="71" width="9" height="14" rx="4"/><rect x="124" y="71" width="9" height="14" rx="4"/></g>
+ <path d="M104 90q6 6 12 0" stroke="#b9a6ff" stroke-width="2" fill="none" stroke-linecap="round"/>
+ <path d="M57 75v15m106-15v15" stroke="#8ef0d0" stroke-width="4" stroke-linecap="round"/>
+ <rect x="85" y="121" width="50" height="20" rx="10" fill="#24213c" stroke="#b9a6ff" stroke-width="1.5"/>
+ <circle cx="110" cy="131" r="3" fill="#8ef0d0"/>
+ <path d="m39 47 3-8 3 8 8 3-8 3-3 8-3-8-8-3ZM177 110l2-5 2 5 5 2-5 2-2 5-2-5-5-2Z" fill="#b9a6ff"/>
+</g>
+</svg>
