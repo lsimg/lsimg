@@ -20,7 +20,6 @@ I'm **Gulsim**, a student developer at **NIS Taldykorgan**. I build gesture-cont
 
 My projects explore how machines **see**, how software **responds to people**, and how data can support practical decisions — from satellite telemetry to agriculture in Kazakhstan.
 
-I'm also the **head of software engineering for Team TDKwarriors**, working on an autonomous vehicle for **WRO Future Engineers 2026**.
 
 <p>
   <a href="https://github.com/lsimg/Lumen"><img src="https://img.shields.io/badge/currently_building-LUMEN-b9a6ff?style=flat-square&amp;labelColor=1b1930" alt="Currently building Lumen" /></a>
