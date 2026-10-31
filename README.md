@@ -41,16 +41,18 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/lsimg/Lumen"><b>Lumen</b></a></td>
-      <td>Gesture-controlled 3D learning, interactive models, and an optional contextual voice assistant.</td>
+      <th colspan="2" align="left">✦ Machine Learning &amp; Data</th>
     </tr>
     <tr>
       <td><a href="https://github.com/lsimg/Astroguard.v2"><b>AstroGuard v2</b></a></td>
       <td>Telemetry anomaly detection with PyTorch autoencoders, architecture search, and FFT analysis.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/TDKwarriors"><b>TDKwarriors</b></a></td>
-      <td>Autonomous robotics software: navigation, odometry, sensor integration, and steering control.</td>
+      <td><a href="https://github.com/lsimg/AstroGuard"><b>AstroGuard</b></a></td>
+      <td>The earlier vibration-monitoring prototype with MLP-based anomaly scoring and a Streamlit dashboard.</td>
+    </tr>
+    <tr>
+      <th colspan="2" align="left">✦ Web &amp; Applied AI</th>
     </tr>
     <tr>
       <td><a href="https://github.com/lsimg/AyaraiBI"><b>AyaraiBI</b></a></td>
@@ -65,6 +67,13 @@
       <td>A nicotine-habit tracking prototype with a journal, progress dashboard, exercises, and an AI coach.</td>
     </tr>
     <tr>
+      <th colspan="2" align="left">✦ Computer Vision &amp; Interaction</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/Lumen"><b>Lumen</b></a></td>
+      <td>Gesture-controlled 3D learning, interactive models, and an optional contextual voice assistant.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/lsimg/Mediapipe_Draw"><b>Air Drawing</b></a></td>
       <td>Draw, select colors, and erase through hand gestures; save the result as a PNG.</td>
     </tr>
@@ -77,8 +86,11 @@
       <td>Smoothly resize an image using the distance between two raised index fingers.</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/lsimg/AstroGuard"><b>AstroGuard</b></a></td>
-      <td>The earlier vibration-monitoring prototype with MLP-based anomaly scoring and a Streamlit dashboard.</td>
+      <th colspan="2" align="left">✦ Robotics</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/TDKwarriors"><b>TDKwarriors</b></a></td>
+      <td>Autonomous robotics software: navigation, odometry, sensor integration, and steering control.</td>
     </tr>
   </tbody>
 </table>
