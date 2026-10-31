@@ -98,20 +98,3 @@
     <i>Read about navigation, localization, motor control, and the software architecture.</i>
   </li>
 </ul>
-
-<h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/lsimg"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-</p>
-
-<h3>A little progress, every day</h3>
-<p><img src="./assets/github-snake.svg" width="100%" alt="Animated contribution snake for lsimg" /></p>
-
-<hr />
-<p align="center">
-  <i>Learning by building.</i><br />
-  The contribution animation refreshes daily.
-</p>
-<p align="center">
-  <a href="https://github.com/lsimg/lsimg/actions/workflows/snake.yml"><img alt="Profile visuals workflow status" src="https://github.com/lsimg/lsimg/actions/workflows/snake.yml/badge.svg" /></a>
-</p>
