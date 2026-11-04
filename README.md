@@ -11,6 +11,10 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="Torchvision" src="https://img.shields.io/badge/Torchvision-C2412B?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
+  <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX%20Runtime-0078D4?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
+  <img alt="NVIDIA CUDA" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-4D77CF?style=flat-square&amp;logo=numpy&amp;logoColor=white" />
   <img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&amp;logo=scipy&amp;logoColor=white" />
@@ -22,6 +26,8 @@
   <img alt="Pybricks" src="https://img.shields.io/badge/Pybricks-E9A820?style=flat-square" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" />
   <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&amp;logo=streamlit&amp;logoColor=white" />
+  <img alt="Rich" src="https://img.shields.io/badge/Rich-7C3AED?style=flat-square" />
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&amp;logo=pytest&amp;logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-D6AD08?style=flat-square&amp;logo=javascript&amp;logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-663399?style=flat-square&amp;logo=css&amp;logoColor=white" />
