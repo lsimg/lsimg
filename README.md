@@ -44,6 +44,10 @@
       <th colspan="2" align="left">✦ Machine Learning &amp; Data</th>
     </tr>
     <tr>
+      <td><a href="https://github.com/lsimg/Kernelixx"><b>Kernelixx</b></a></td>
+      <td>A PyTorch CLI for profiling models, benchmarking inference optimizations, and validating results against the original model.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/lsimg/Astroguard.v2"><b>AstroGuard v2</b></a></td>
       <td>Telemetry anomaly detection with PyTorch autoencoders, architecture search, and FFT analysis.</td>
     </tr>
