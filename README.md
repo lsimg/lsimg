@@ -12,6 +12,12 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
   <img alt="Torchvision" src="https://img.shields.io/badge/Torchvision-C2412B?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+  <img alt="Triton" src="https://img.shields.io/badge/Triton-6D5DF6?style=flat-square" />
+  <img alt="Transformers" src="https://img.shields.io/badge/Transformers-D6A400?style=flat-square&amp;logo=huggingface&amp;logoColor=white" />
+  <img alt="PEFT" src="https://img.shields.io/badge/PEFT-CA8A04?style=flat-square&amp;logo=huggingface&amp;logoColor=white" />
+  <img alt="TRL" src="https://img.shields.io/badge/TRL-B7791F?style=flat-square&amp;logo=huggingface&amp;logoColor=white" />
+  <img alt="bitsandbytes" src="https://img.shields.io/badge/bitsandbytes-4C7C7C?style=flat-square" />
+  <img alt="Soup CLI" src="https://img.shields.io/badge/Soup%20CLI-B83B5E?style=flat-square" />
   <img alt="ONNX" src="https://img.shields.io/badge/ONNX-005CED?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
   <img alt="ONNX Runtime" src="https://img.shields.io/badge/ONNX%20Runtime-0078D4?style=flat-square&amp;logo=onnx&amp;logoColor=white" />
   <img alt="NVIDIA CUDA" src="https://img.shields.io/badge/NVIDIA%20CUDA-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
@@ -48,6 +54,10 @@
   <tbody>
     <tr>
       <th colspan="2" align="left">✦ Machine Learning &amp; Data</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/lsimg/SoupLite"><b>SoupLite</b></a></td>
+      <td>Reduces GPU memory during Qwen fine-tuning with a chunked LM head, backward recomputation, and custom Triton kernels.</td>
     </tr>
     <tr>
       <td><a href="https://github.com/lsimg/Kernelixx"><b>Kernelixx</b></a></td>
